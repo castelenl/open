@@ -8,9 +8,9 @@
     "settings": {
       "clients": [
         {
-          "id": "你自己的UUID",
-          "alterId": 64,
-          "security": "aes-128-gcm"
+          "id": "dcc7c4bb-b394-415e-bab1-b01e92a79851",
+          "alterId": 0,
+          "security": "auto"
         }
       ]
     },
