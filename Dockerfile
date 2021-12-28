@@ -23,4 +23,4 @@ RUN chmod + x /entrypoint.sh
 
 ENTRYPOINT   /entrypoint.sh
 
-EXP80 8080
+EXPOSE 22 8081
